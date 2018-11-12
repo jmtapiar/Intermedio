@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Inversorpalabras {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		String palabra = "";
 		String palabrainvertida = "";
 		int longitudpalabra = 0;
